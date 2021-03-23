@@ -1,2 +1,2 @@
-# hw_submission
-Where TA's can find my code
+# excel_challenge
+Where TA's can find my excel homework.
